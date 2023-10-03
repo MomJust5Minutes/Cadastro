@@ -32,7 +32,7 @@ instância da classe.
 
 – Apresente um menu para o usuário com as seguintes opções: 1- Criar produto; 2-
 Criar produto perecível e 3- Sair.
-* Para a Opção 1, faça:/
+* Para a Opção 1, faça://
 1- Solicite que o usuário entre com os dados de cadastro do produto/
 2- Crie o objeto/
 3- Imprima os dados do objeto na tela//
