@@ -32,15 +32,15 @@ instância da classe.
 
 – Apresente um menu para o usuário com as seguintes opções: 1- Criar produto; 2-
 Criar produto perecível e 3- Sair.
-* Para a Opção 1, faça:
-1- Solicite que o usuário entre com os dados de cadastro do produto  
-2- Crie o objeto  
-3- Imprima os dados do objeto na tela    
-* Para a Opção 2, faça:  
-1- Solicite que o usuário entre com os dados de cadastro do produto perecível  
-2- Crie o objeto  
-3- Imprima os dados do objeto na tela  
-4- Verifique se o produto está vencido  
-5-Aplique o desconto de 15% ao produto  
-6- Imprima os dados do objeto na tela  
+* Para a Opção 1, faça:/
+1- Solicite que o usuário entre com os dados de cadastro do produto/
+2- Crie o objeto/
+3- Imprima os dados do objeto na tela//
+* Para a Opção 2, faça:/
+1- Solicite que o usuário entre com os dados de cadastro do produto perecível/
+2- Crie o objeto/
+3- Imprima os dados do objeto na tela/
+4- Verifique se o produto está vencido/
+5-Aplique o desconto de 15% ao produto/ 
+6- Imprima os dados do objeto na tela/
 * Para a Opção 3, encerre o programa.
